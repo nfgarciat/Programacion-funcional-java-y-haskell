@@ -21,3 +21,6 @@ La practica consiste en que dado un archivo con la extencion .csv llamado "stude
 
 ## Metodología
 #### Para la realización del programa se hizo base en ejemplos proporcionados por el profesor de area, llevando estas estructuras para la definición de métodos y la construcción de otros
+
+## Link Video Profundización en Haskell:
+https://youtu.be/rlt2Ag7S5PM?feature=shared
